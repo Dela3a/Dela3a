@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ai researcher and Developer
 ---------------------------
 
-I've been using Python for 5+ years, developing, training and evaluating AI models for the purposes of research, I have a deep understanding for the tools i use and combining that with the curiosity, the passion to learn new tools and technologies and integrity of a researcher i am able to produce high quality and robust tools for me and others in the field. While my field of research concerns AI, i am an embedded systems engineer at heart, so getting down and dirty at low level coding such as Assembly, C/C++ is still appealing and sometimes more fulfilling. Can't wait for new opportunities to continue learning and solve real world problems using 1s and 0s.
+I've been using Python for 6+ years, developing, training and evaluating AI models for the purposes of research, I have a deep understanding for the tools i use and combining that with the curiosity, the passion to learn new tools and technologies and integrity of a researcher i am able to produce high quality and robust tools for me and others in the field. While my field of research concerns AI, i am an embedded systems engineer at heart, so getting down and dirty at low level coding such as Assembly, C/C++ is still appealing and sometimes more fulfilling. Can't wait for new opportunities to continue learning and solve real world problems using 1s and 0s.
 
 *   🌍  I'm based in Algiers, Algeria
 *   ✉️  You can contact me at [abdelkamalbensaada@gmail.com](mailto:abdelkamalbensaada@gmail.com)
